@@ -1,0 +1,46 @@
+body{
+  background: radial-gradient(#d8cbbb, #ffa400);
+  font-size: 1.2em;
+  width: 50%;
+  margin: 20px auto;
+  padding: 20px;
+  text-align: center;
+  min-height: 50vh;
+}
+
+#songList{
+  background: #800080;
+  border-radius: 10px;
+  text-align: left;
+
+}
+ li{
+   padding: 15px;
+   color: white;
+ }
+li:hover, svg:hover{
+  cursor: pointer;
+}
+
+#controls{
+  border: 1px lightgray solid;
+  border-radius: 10px;
+  background: #970690;
+  padding: 1.5em;
+}
+
+svg{
+  color: #ea9c1b;
+}
+
+progress{
+  width: 80%;
+  margin: 20px;
+  border-radius: 10px;
+}
+
+h4{
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
