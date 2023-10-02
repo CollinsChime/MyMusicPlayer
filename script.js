@@ -17,6 +17,7 @@ const songs = [
   "Wiz_Khalifa_ft_Chevy_Woods_-_Taylor_Gang_.mp3",
   "Nicole Wray ft. Dame Dash - The Dream Factory (Lollipop)-1.mp3",
   "tumblr_mfzmc5bCDE1qjonawo1.mp3",
+  "Ice-Prince-N-Word-(Remix)-",
 ]
 
 const createSongList = () => {
